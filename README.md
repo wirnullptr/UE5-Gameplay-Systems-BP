@@ -173,13 +173,13 @@
 ### Атрибуты
 
 #### UI в игре
-![UI атрибутов](images/attributes-ui.png)
+![UI атрибутов](images/attributes-ui.jpg)
 
 #### Data Asset конфигурация
-![Data Asset атрибутов](images/attributes-data-asset.png)
+![Data Asset атрибутов](images/attributes-data-asset.jpg)
 
 #### GAS AttributeSet регистрация
-![GAS код атрибутов](images/attributes-gas-code.png)
+![GAS код атрибутов](images/attributes-gas-code.jpg)
 
 ### Боевая система
 
